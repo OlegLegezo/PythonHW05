@@ -29,7 +29,7 @@ myListCount.append(res[i])
 
 # print(myListValue)
 # print(myListCount)
-print(f'кортеж:')
+print(f'полученный массив с парами элементов:')
 my_list = list(zip(myListValue, myListCount))
 print(my_list)
 
